@@ -1,6 +1,6 @@
 # ⚡ Stroy Terminal (Aether OS v1.0 "Shock")
 
-**Stroy** is a next-generation AI-powered terminal assistant designed for **Aether OS**. Unlike standard terminal wrappers, Stroy operates as a System Intelligence Layer, capable of managing memory, diagnosing errors, and executing complex bash logic with automated permission handling.
+**Stroy** is a next-generation AI-powered terminal assistant designed for **Debian**. Unlike standard terminal wrappers, Stroy operates as a System Intelligence Layer, capable of managing memory, diagnosing errors, and executing complex bash logic with automated permission handling.
 
 Built for power users and developers, Stroy translates human intent into precise, high-performance shell commands.
 
